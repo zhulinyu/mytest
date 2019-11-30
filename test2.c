@@ -7,6 +7,7 @@ extern i;
 void test2()
 {
 	printf("%s",add2);
-	for (; i > 0; i--)
+	for (; i > 0; i--){
 		printf("%d--", i);
+	}
 }
