@@ -10,7 +10,7 @@ char add2[] = "zyj";
 int testmain()
 {
 	//test1();
-	//printf("ok \n");
+	printf("ok \n");
 	//test2();
 	printf("%d \n",i);
 	return 0;
